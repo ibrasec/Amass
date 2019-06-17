@@ -1,4 +1,4 @@
-module github.com/OWASP/Amass
+module github.com/ibrasec/Amass
 
 go 1.11
 
