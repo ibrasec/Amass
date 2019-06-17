@@ -1,6 +1,6 @@
 module github.com/OWASP/Amass
 
-go 1.12
+go 1.11
 
 require (
 	github.com/PuerkitoBio/fetchbot v1.1.2
